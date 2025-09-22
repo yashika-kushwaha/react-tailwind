@@ -10,7 +10,7 @@ export default function FeaturedSection() {
     },
     {
       id: 2,
-      name: "Premium Black Shirt",
+      name: "Premiumm Black Shirt",
       price: "$59",
       img: "/public/images/Premium_Black_Shirt.jpg",
     },
